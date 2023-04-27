@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1002947909080-50mdrb9sjbdn8cktojp3nm48hmf1d6tl.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://listmaker-95d9a-default-rtdb.europe-west1.firebasedatabase.app</string>
+    <string name="gcm_defaultSenderId" translatable="false">1002947909080</string>
+    <string name="google_api_key" translatable="false">AIzaSyDMymbt2Dpsh98guKv9SkeSy6f-TA8EVuU</string>
+    <string name="google_app_id" translatable="false">1:1002947909080:android:b5d00b512957df9b910ead</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDMymbt2Dpsh98guKv9SkeSy6f-TA8EVuU</string>
+    <string name="google_storage_bucket" translatable="false">listmaker-95d9a.appspot.com</string>
+    <string name="project_id" translatable="false">listmaker-95d9a</string>
+</resources>
